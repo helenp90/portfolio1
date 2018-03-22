@@ -1,4 +1,22 @@
-.responsive-img{
-    width: 1700px;
-    height: 300px;
+html {
+    font-family: GillSans, Calibri, Trebuchet, sans-serif;
+}
+
+h4{
+    font-weight: lighter;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif 
+}
+
+p{
+    font-weight: lighter;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif 
+}
+
+.responsive-img {
+    width: 500px;
+    height: 500px;
+}
+
+.pageheader {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
