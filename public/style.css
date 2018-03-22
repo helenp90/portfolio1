@@ -12,9 +12,9 @@ p{
     font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif 
 }
 
-.responsive-img {
-    width: 500px;
-    height: 500px;
+.responsive-img{
+    width: 200px;
+    height: 200px;
 }
 
 .pageheader {
